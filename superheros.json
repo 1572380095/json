@@ -1,0 +1,38 @@
+{
+  "squadName" : "真香小分队",
+  "homeTown" : "地球村",
+  "formed" : 2012,
+  "secretBase" : "m78星云",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "卢本伟",
+      "age" : 29,
+      "secretIdentity" : "white",
+      "powers" : [
+        "和faker五五开",
+        "国服小鱼人"
+      ]
+    },
+    {
+      "name" : "阿怡",
+      "age" : 27,
+      "secretIdentity" : "代打女王",
+      "powers" : [
+        "直播不露手",
+        "表情跟着走",
+        "幕后团队六"
+      ]
+    },
+    {
+      "name" : "杨凯莉",
+      "age" : 25,
+      "secretIdentity" : "抖音公鸭姐",
+      "powers" : [
+        "1400好友",
+        "做你的眼睛",
+        "国歌捍卫者"
+      ]
+    }
+  ]
+}
